@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" alt="Ganga Menon" width="120">
+</p>
+
 # Welcome
 
 Hi, I'm **Ganga Menon**! This is my personal learning notebook.

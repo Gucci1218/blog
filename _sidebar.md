@@ -3,6 +3,7 @@
   - Getting Started
     - [Why Calculus Matters](calculus/0001-why-calculus-matters.md)
     - [History of Calculus](calculus/0002-history-of-calculus.md)
+    - [How This Blog Works](calculus/0003-howtoblog.md)
 
   - Unit 0: Pre-Calculus Foundations
     - [Domain and Range](calculus/0101-domain-and-range.md)

@@ -1252,4 +1252,10 @@ These limit skills are essential - you'll use them constantly when we get to der
 
 *"The art of evaluating limits is knowing which tool to reach for. Master these techniques, and limits become routine."*
 
-*Last updated: December 2024*
+---
+
+<div align="center">
+
+[← Understanding Limits](calculus/understanding-limits.md) | [One-Sided Limits →](calculus/one-sided-limits.md)
+
+</div>

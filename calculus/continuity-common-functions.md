@@ -941,3 +941,11 @@ These concepts form the foundation for everything that follows in calculus—der
 - Derivatives at a Point
 - Tangent Lines
 - Basic Derivative Rules
+
+---
+
+<div align="center">
+
+[← Making Functions Continuous](calculus/making-functions-continuous.md) | [Derivative Definition →](calculus/derivative-definition.md)
+
+</div>

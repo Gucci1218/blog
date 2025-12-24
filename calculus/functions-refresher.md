@@ -338,3 +338,11 @@ Now that we're solid on functions, let's explore **The Concept of Change** - whe
 ---
 
 *If functions still feel fuzzy, that's okay. Bookmark this page. You'll come back to it when we hit derivatives and suddenly these examples will make even more sense.*
+
+---
+
+<div align="center">
+
+[← History of Calculus](calculus/history-of-calculus.md) | [Concept of Change →](calculus/the-concept-of-change.md)
+
+</div>

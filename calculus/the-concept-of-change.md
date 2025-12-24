@@ -292,3 +292,11 @@ See you in the next article!
 ---
 
 *Got questions? Confused about something? That's normal. Read it again tomorrow - it'll click. That's how math works.*
+
+---
+
+<div align="center">
+
+[← Functions Refresher](calculus/functions-refresher.md) | [Limits Overview →](calculus/limits-the-foundation.md)
+
+</div>

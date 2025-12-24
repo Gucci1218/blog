@@ -807,3 +807,11 @@ Mastering limits at infinity prepares you for understanding horizontal asymptote
 - Continuity and the Formal Definition
 - Types of Discontinuities
 - Intermediate Value Theorem
+
+---
+
+<div align="center">
+
+[← One-Sided Limits](calculus/one-sided-limits.md) | [Continuity Basics →](calculus/continuity-definition.md)
+
+</div>

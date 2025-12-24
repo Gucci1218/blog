@@ -872,3 +872,11 @@ The Intermediate Value Theorem is a powerful existence theorem that connects the
 - Making Functions Continuous
 - Properties of Continuous Functions
 - Introduction to Derivatives
+
+---
+
+<div align="center">
+
+[← Piecewise Continuity](calculus/continuity-piecewise.md) | [Making Functions Continuous →](calculus/making-functions-continuous.md)
+
+</div>

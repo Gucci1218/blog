@@ -977,3 +977,11 @@ Knowing how to make functions continuous reinforces your understanding of limits
 - Properties of Continuous Functions
 - Introduction to Derivatives
 - The Definition of the Derivative
+
+---
+
+<div align="center">
+
+[← Intermediate Value Theorem](calculus/intermediate-value-theorem.md) | [Continuous Functions →](calculus/continuity-common-functions.md)
+
+</div>

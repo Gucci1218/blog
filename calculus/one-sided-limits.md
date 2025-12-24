@@ -884,3 +884,11 @@ Mastering one-sided limits prepares you for understanding continuity, the Interm
 - Infinite Limits and Vertical Asymptotes
 - Limits at Infinity and Horizontal Asymptotes
 - Introduction to Derivatives
+
+---
+
+<div align="center">
+
+[← Limit Laws & Techniques](calculus/limit-laws-and-techniques.md) | [Limits at Infinity →](calculus/limits-at-infinity.md)
+
+</div>

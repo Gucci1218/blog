@@ -886,3 +886,11 @@ Understanding continuity is essential for the Intermediate Value Theorem, differ
 - Types of Discontinuities (Removable, Jump, Infinite)
 - Continuity for Piecewise Functions
 - The Intermediate Value Theorem
+
+---
+
+<div align="center">
+
+[← Limits at Infinity](calculus/limits-at-infinity.md) | [Types of Discontinuities →](calculus/types-of-discontinuities.md)
+
+</div>

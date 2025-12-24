@@ -952,3 +952,11 @@ Mastering piecewise continuity prepares you for the Intermediate Value Theorem a
 - The Intermediate Value Theorem
 - Making Functions Continuous
 - Continuous Functions and Their Properties
+
+---
+
+<div align="center">
+
+[← Types of Discontinuities](calculus/types-of-discontinuities.md) | [Intermediate Value Theorem →](calculus/intermediate-value-theorem.md)
+
+</div>

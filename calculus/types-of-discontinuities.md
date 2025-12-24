@@ -942,3 +942,11 @@ Understanding discontinuity types is essential for the Intermediate Value Theore
 - Continuity with Piecewise Functions
 - The Intermediate Value Theorem
 - Making Functions Continuous
+
+---
+
+<div align="center">
+
+[← Continuity Basics](calculus/continuity-definition.md) | [Piecewise Continuity →](calculus/continuity-piecewise.md)
+
+</div>

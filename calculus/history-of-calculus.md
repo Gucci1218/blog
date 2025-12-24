@@ -76,3 +76,11 @@ Calculus is essential for:
 - **1675** - Leibniz develops his calculus
 - **1684** - Leibniz publishes first paper
 - **1687** - Newton publishes Principia
+
+---
+
+<div align="center">
+
+[← Why Calculus Matters](calculus/why-calculus-matters.md) | [Functions Refresher →](calculus/functions-refresher.md)
+
+</div>

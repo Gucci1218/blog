@@ -1185,4 +1185,10 @@ The precision you've gained with epsilon-delta thinking will serve you well as w
 
 *"The limit is the fundamental idea behind calculus. Once you truly understand what 'approaching' means, everything else falls into place."*
 
-*Last updated: December 2024*
+---
+
+<div align="center">
+
+[← Limits: The Foundation](calculus/limits-the-foundation.md) | [Limit Laws & Techniques →](calculus/limit-laws-and-techniques.md)
+
+</div>

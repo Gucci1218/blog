@@ -787,4 +787,10 @@ Limits are the foundation of everything in calculus. Master them, and derivative
 
 *"The limit concept is the cornerstone of calculus - without it, we couldn't make sense of instantaneous rates of change or accumulation."*
 
-*Last updated: December 2024*
+---
+
+<div align="center">
+
+[← Concept of Change](calculus/the-concept-of-change.md) | [Understanding Limits →](calculus/understanding-limits.md)
+
+</div>

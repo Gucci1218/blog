@@ -211,3 +211,11 @@ In the next article, we'll review **functions** - the language calculus speaks. 
 ---
 
 *"Calculus was the first achievement of modern mathematics, and it is difficult to overestimate its importance."* — John von Neumann
+
+---
+
+<div align="center">
+
+[History of Calculus →](calculus/history-of-calculus.md)
+
+</div>

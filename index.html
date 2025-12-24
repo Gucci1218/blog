@@ -151,7 +151,7 @@
 
     /* Math equations - KaTeX styling */
     .katex {
-      color: #0d9488;
+      color: #3730a3;
       font-size: 1.1em;
       font-family: 'Latin Modern Math', 'KaTeX_Main', serif !important;
     }
@@ -163,8 +163,18 @@
     }
 
     .katex-display {
-      color: #0d9488;
+      color: #3730a3;
       padding: 0.5em 0;
+    }
+
+    /* Article meta date */
+    .article-date {
+      display: block;
+      text-align: right;
+      font-size: 0.7em;
+      color: #9ca3af;
+      margin-top: -0.5em;
+      margin-bottom: 1em;
     }
 
     /* Sidebar - Minimal Clean Style */
@@ -187,7 +197,7 @@
       font-weight: 700;
       font-size: 1.25rem !important;
       letter-spacing: -0.02em;
-      color: #fde68a !important;
+      color: #000000 !important;
       display: block;
       padding: 24px 16px 20px !important;
       margin-bottom: 8px;
@@ -573,6 +583,10 @@
     body.dark-mode .katex .katex-html,
     body.dark-mode .katex .katex-html * {
       color: #fde68a !important;
+    }
+
+    body.dark-mode .article-date {
+      color: #6b7280;
     }
 
     body.dark-mode .markdown-section code {

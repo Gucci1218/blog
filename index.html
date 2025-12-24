@@ -170,12 +170,16 @@
     /* Sidebar - Minimal Clean Style */
     .sidebar {
       padding-top: 0 !important;
+      display: flex !important;
+      flex-direction: column !important;
     }
 
     .sidebar-nav {
       font-size: 0.875em;
       line-height: 1.6;
       padding: 0 8px !important;
+      flex: 1 !important;
+      overflow-y: auto !important;
     }
 
     /* App name / Logo area */
@@ -183,7 +187,7 @@
       font-weight: 700;
       font-size: 1.25rem !important;
       letter-spacing: -0.02em;
-      color: #14b8a6 !important;
+      color: #fde68a !important;
       display: block;
       padding: 24px 16px 20px !important;
       margin-bottom: 8px;
@@ -336,9 +340,18 @@
       transform: translateY(-50%) rotate(45deg);
     }
 
-    /* Search box styling */
+    /* Search box styling - positioned at bottom */
     .search {
-      margin: 0 8px 16px !important;
+      order: 999 !important;
+      margin: auto 8px 16px !important;
+      padding-bottom: 20px !important;
+      flex-shrink: 0 !important;
+      border-top: none !important;
+      border-bottom: none !important;
+    }
+
+    .search .matching-post {
+      border-bottom: none !important;
     }
 
     .search input {
@@ -440,7 +453,7 @@
 
     body.dark-mode .app-name-link {
       border-bottom-color: var(--border-color) !important;
-      color: #14b8a6 !important;
+      color: #fde68a !important;
     }
 
     /* Dark mode Level 1 headers - bright white */
@@ -666,7 +679,16 @@
       background-color: var(--base-background-color) !important;
     }
 
-    /* Sidebar toggle button */
+    /* Sidebar toggle - remove any lines */
+    .sidebar-toggle {
+      background-color: transparent !important;
+      border: none !important;
+    }
+
+    .sidebar::after {
+      display: none !important;
+    }
+
     body.dark-mode .sidebar-toggle {
       background-color: transparent !important;
     }
@@ -689,12 +711,41 @@
     .markdown-section {
       max-width: 800px;
       margin: 0 auto;
-      padding: 30px 45px;
+      padding: 30px 45px 40px;
     }
 
     .content {
       display: flex;
       justify-content: center;
+      padding-bottom: 60px !important;
+    }
+
+    /* Pagination (prev/next) footer */
+    .docsify-pagination-container {
+      margin-bottom: 60px !important;
+    }
+
+    .pagination-item {
+      margin-bottom: 40px !important;
+    }
+
+    article:last-child {
+      padding-bottom: 60px !important;
+    }
+
+    /* Main content area bottom padding */
+    #main {
+      padding-bottom: 20px !important;
+    }
+
+    section.content {
+      padding-bottom: 20px !important;
+    }
+
+    .markdown-section:after {
+      content: "";
+      display: block;
+      height: 20px;
     }
 
     /* Transition for smooth theme change */

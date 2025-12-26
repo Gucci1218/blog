@@ -18,7 +18,7 @@ I'm a junior at Rancho Bernardo High School in San Diego, passionate about **mat
 
 ## Beyond Academics
 
-When I'm not studying or building, you'll find me **dancing**, binge-watching cooking shows, or **volunteering** as a mentor for younger students. Giving back and helping kids discover their own interests is something I genuinely enjoy.
+When I'm not studying or building, you'll find me **dancing**, binge-watching cooking shows, or **volunteering** as a mentor for younger students. Giving back and helping kids discover their own interests is something I enjoy.
 
 ## This Site
 

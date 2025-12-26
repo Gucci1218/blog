@@ -210,7 +210,7 @@ $$f(x) = \int_a^b g(t) \, dt$$
 |--------|------|--------|------|
 | $\leq$ | `\leq` | $\geq$ | `\geq` |
 | $\neq$ | `\neq` | $\approx$ | `\approx` |
-| $\pm$ | `\pm` | $\times$ | `\times$ |
+| $\pm$ | `\pm` | $\times$ | `\times` |
 | $\cdot$ | `\cdot` | $\div$ | `\div` |
 
 #### Functions and Formatting

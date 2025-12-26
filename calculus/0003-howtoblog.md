@@ -16,6 +16,14 @@
 
 ---
 
+## How to test this blog locally?
+
+```
+$ cd blog
+$ docsify serve // this will launch the site in localhost:3000
+$ CTRL C to exit 
+```
+
 ## Part 1: Markdown Basics
 
 ### What is Markdown?

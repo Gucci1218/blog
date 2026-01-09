@@ -24,7 +24,7 @@ When I'm not studying or building, you'll find me **dancing**, binge-watching co
 
 This is my personal learning notebook where I document what I'm learning — from math to circuits to finance. Feel free to explore!
 
-test
+
 
 ---
 

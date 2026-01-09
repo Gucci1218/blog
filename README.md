@@ -8,7 +8,7 @@ I'm a junior at Rancho Bernardo High School in San Diego, passionate about **mat
 
 ## What I'm Into
 
-**Maker at Heart** — I love understanding how things work from the ground up. That's what drew me to electrical and electronics engineering — there's something satisfying about turning circuits and code into real products.
+**Maker at Heart** — I love understanding how things work from the ground up. That's what drew me to electrical,electronics and bio engineering — there's something satisfying about turning circuits and code into real products.
 
 **Robotics** — Proud member of my school's robotics team, where I get to combine problem-solving with hands-on building.
 

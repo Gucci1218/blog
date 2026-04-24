@@ -99,3 +99,5 @@
     - AP Calculus BC
       - [BC Practice Test 1](practice-tests/bc-practice-test-1.md)
       - [BC Test 1 Solutions](practice-tests/bc-practice-test-1-solutions.md)
+      - [BC Practice Test 2](practice-tests/bc-practice-test-2.md)
+      - [BC Test 2 Solutions](practice-tests/bc-practice-test-2-solutions.md)

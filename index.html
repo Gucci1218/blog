@@ -585,6 +585,14 @@
       color: #fde68a !important;
     }
 
+    /* Keep KaTeX phantom spacers invisible in dark mode — mhchem hides its
+       alignment glyphs with inline color:transparent, which the gold
+       !important override above would otherwise repaint as visible */
+    body.dark-mode .katex .katex-html [style*="color:transparent"],
+    body.dark-mode .katex .katex-html [style*="color:transparent"] * {
+      color: transparent !important;
+    }
+
     body.dark-mode .article-date {
       color: #6b7280;
     }
@@ -841,6 +849,9 @@
       name: 'Ganga Menon',
       // Update this to your daughter's GitHub repo URL
       // repo: 'https://github.com/username/repo',
+      latex: {
+        overflowScroll: false
+      },
       loadSidebar: true,
       subMaxLevel: 0,
       auto2top: true,
@@ -866,8 +877,9 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
   <!-- Prism for syntax highlighting -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-prism@1/dist/docsify-prism.min.js"></script>
-  <!-- KaTeX for math rendering -->
+  <!-- KaTeX for math rendering (mhchem adds \ce{} chemistry notation) -->
   <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-katex@1.4.4/dist/docsify-katex.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/mhchem.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 </body>
 </html>

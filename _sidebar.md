@@ -103,3 +103,52 @@
       - [BC Test 2 Solutions](practice-tests/bc-practice-test-2-solutions.md)
       - [BC Practice Test 3](practice-tests/bc-practice-test-3.md)
       - [BC Test 3 Solutions](practice-tests/bc-practice-test-3-solutions.md)
+
+- AP Chemistry
+
+  - Getting Started
+    - [Why Chemistry Matters](chemistry/0001-why-chemistry-matters.md)
+    - [History of Chemistry](chemistry/0002-history-of-chemistry.md)
+
+  - Unit 0a: Math Toolkit
+    - [Scientific Notation](chemistry/0101-scientific-notation.md)
+    - [Significant Figures](chemistry/0102-significant-figures.md)
+    - [Dimensional Analysis](chemistry/0103-dimensional-analysis.md)
+    - [Logarithms for Chemistry](chemistry/0104-logarithms-for-chemistry.md)
+    - [Graphing and Linearization](chemistry/0105-graphing-linearization.md)
+
+  - Unit 0b: Chemistry Foundations
+    - [Atomic Structure Basics](chemistry/0201-atomic-structure-basics.md)
+    - [Periodic Table Map](chemistry/0202-periodic-table-map.md)
+    - [Ionic vs Covalent](chemistry/0203-ionic-vs-covalent.md)
+    - [Naming Compounds](chemistry/0204-naming-compounds.md)
+    - [Polyatomic Ions](chemistry/0205-polyatomic-ions.md)
+    - [Balancing Equations](chemistry/0206-balancing-equations.md)
+    - [The Mole](chemistry/0207-the-mole.md)
+
+  - Unit 1: Atomic Structure
+    - [Mass Spectrometry](chemistry/0301-mass-spectrometry.md)
+    - [Composition of Mixtures](chemistry/0302-composition-of-mixtures.md)
+    - [Electron Configuration](chemistry/0303-electron-configuration.md)
+    - [Photoelectron Spectroscopy](chemistry/0304-photoelectron-spectroscopy.md)
+    - [Periodic Trends](chemistry/0305-periodic-trends.md)
+    - [Ions and Ionic Compounds](chemistry/0306-valence-electrons-ionic-compounds.md)
+
+  - Unit 2: Compound Structure
+    - [Bonds and Electronegativity](chemistry/0401-bonds-and-electronegativity.md)
+    - [Bond Energy and Length](chemistry/0402-bond-energy-and-length.md)
+    - [Ionic Solids, Metals, Alloys](chemistry/0403-ionic-solids-metals-alloys.md)
+    - [Lewis Structures](chemistry/0404-lewis-structures.md)
+    - [Resonance and Formal Charge](chemistry/0405-resonance-formal-charge.md)
+    - [VSEPR and Molecular Geometry](chemistry/0406-vsepr-molecular-geometry.md)
+    - [Polarity and Hybridization](chemistry/0407-polarity-hybridization.md)
+
+  - Unit 3: Intermolecular Forces
+    - [Intermolecular Forces](chemistry/0501-intermolecular-forces.md)
+    - [Properties from IMFs](chemistry/0502-properties-from-imfs.md)
+    - [Phase Changes](chemistry/0503-phase-changes.md)
+    - [Ideal Gas Law](chemistry/0504-ideal-gas-law.md)
+    - [Kinetic Molecular Theory](chemistry/0505-kinetic-molecular-theory.md)
+    - [Solutions and Concentration](chemistry/0506-solutions-and-concentration.md)
+    - [Solubility and Separation](chemistry/0507-solubility-and-separation.md)
+    - [Spectroscopy and Beer's Law](chemistry/0508-spectroscopy-beer-lambert.md)

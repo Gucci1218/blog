@@ -553,6 +553,6 @@ $c_{\text{original}} = 5.00 \times (2.1 \times 10^{-4}\ \text{M})$.
 
 <div align="center">
 
-[← Solubility and Separation](/chemistry/0507-solubility-and-separation)
+[← Solubility and Separation](/chemistry/0507-solubility-and-separation) | [Net Ionic Equations →](/chemistry/0601-net-ionic-equations)
 
 </div>

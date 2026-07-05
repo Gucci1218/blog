@@ -152,3 +152,11 @@
     - [Solutions and Concentration](chemistry/0506-solutions-and-concentration.md)
     - [Solubility and Separation](chemistry/0507-solubility-and-separation.md)
     - [Spectroscopy and Beer's Law](chemistry/0508-spectroscopy-beer-lambert.md)
+
+  - Unit 4: Chemical Reactions
+    - [Net Ionic Equations](chemistry/0601-net-ionic-equations.md)
+    - [Types of Reactions](chemistry/0602-types-of-reactions.md)
+    - [Stoichiometry](chemistry/0603-stoichiometry.md)
+    - [Titration](chemistry/0604-titration.md)
+    - [Acid-Base Reactions](chemistry/0605-acid-base-reactions.md)
+    - [Redox Reactions](chemistry/0606-redox-reactions.md)

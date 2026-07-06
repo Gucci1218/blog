@@ -160,3 +160,40 @@
     - [Titration](chemistry/0604-titration.md)
     - [Acid-Base Reactions](chemistry/0605-acid-base-reactions.md)
     - [Redox Reactions](chemistry/0606-redox-reactions.md)
+
+  - Unit 5: Kinetics
+    - [Reaction Rates](chemistry/0701-reaction-rates.md)
+    - [Rate Laws](chemistry/0702-rate-laws.md)
+    - [Integrated Rate Laws](chemistry/0703-integrated-rate-laws.md)
+    - [Collision Model and Arrhenius](chemistry/0704-collision-model-arrhenius.md)
+    - [Reaction Mechanisms](chemistry/0705-reaction-mechanisms.md)
+    - [Catalysis](chemistry/0706-catalysis.md)
+
+  - Unit 6: Thermochemistry
+    - [Energy and Heat](chemistry/0801-energy-and-heat.md)
+    - [Calorimetry](chemistry/0802-calorimetry.md)
+    - [Enthalpy of Reaction](chemistry/0803-enthalpy-of-reaction.md)
+    - [Bond Enthalpies](chemistry/0804-bond-enthalpies.md)
+    - [Enthalpy of Formation](chemistry/0805-enthalpy-of-formation.md)
+    - [Hess's Law](chemistry/0806-hess-law.md)
+
+  - Unit 7: Equilibrium
+    - [Introduction to Equilibrium](chemistry/0901-introduction-to-equilibrium.md)
+    - [The Equilibrium Constant](chemistry/0902-equilibrium-constant.md)
+    - [ICE Tables](chemistry/0903-ice-tables.md)
+    - [Le Chatelier's Principle](chemistry/0904-le-chatelier.md)
+    - [Solubility Equilibria](chemistry/0905-solubility-equilibria.md)
+
+  - Unit 8: Acids and Bases
+    - [pH, pOH, and Strong Acids](chemistry/1001-ph-poh-strong-acids-bases.md)
+    - [Weak Acids and Bases](chemistry/1002-weak-acids-and-bases.md)
+    - [Acid Strength and Structure](chemistry/1003-molecular-structure-acid-strength.md)
+    - [Buffers](chemistry/1004-buffers.md)
+    - [Titration Curves](chemistry/1005-titration-curves.md)
+
+  - Unit 9: Applications of Thermodynamics
+    - [Entropy](chemistry/1101-entropy.md)
+    - [Gibbs Free Energy](chemistry/1102-gibbs-free-energy.md)
+    - [Free Energy and Equilibrium](chemistry/1103-free-energy-equilibrium.md)
+    - [Electrochemical Cells](chemistry/1104-electrochemical-cells.md)
+    - [Cell Potential and Electrolysis](chemistry/1105-cell-potential-electrolysis.md)

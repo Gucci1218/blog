@@ -594,6 +594,6 @@ $$\textbf{OIL RIG} \;:\; \text{Oxidation Is Loss}, \quad \text{Reduction Is Gain
 
 <div align="center">
 
-[← Acid-Base Reactions](/chemistry/0605-acid-base-reactions)
+[← Acid-Base Reactions](/chemistry/0605-acid-base-reactions) | [Reaction Rates →](/chemistry/0701-reaction-rates)
 
 </div>
